@@ -1,2 +1,2 @@
 # Shanu-Demo
-This is my Git practice repository
+This is my Git practice repository.
